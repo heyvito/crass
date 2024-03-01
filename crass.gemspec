@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   }
 
   s.platform = Gem::Platform::RUBY
-  s.required_ruby_version = Gem::Requirement.new('>= 1.9.2')
+  s.required_ruby_version = Gem::Requirement.new('>= 3')
 
   s.require_paths = ['lib']
 
